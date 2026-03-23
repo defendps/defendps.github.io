@@ -4,7 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-**DefendPS** is an enterprise-grade, Ph.D.-level Threat Intelligence and Defensive Security Library strictly focused on PowerShell. It is designed for SOC Analysts, Detection Engineers, Incident Responders (DFIR), and Threat Hunters.
+**DefendPS** is an enterprise-grade, Threat Intelligence and Defensive Security Library strictly focused on PowerShell. It is designed for SOC Analysts, Detection Engineers, Incident Responders (DFIR), and Threat Hunters.
 
 Unlike standard cheatsheets, DefendPS dives into the absolute bleeding edge of PowerShell evasion, execution, and persistence techniques used by Tier-1 Nation-State actors, providing exact Splunk/Sigma detection rules, DFIR artifacts, and D3FEND mitigations.
 
